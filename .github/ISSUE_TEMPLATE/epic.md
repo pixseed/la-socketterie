@@ -2,7 +2,7 @@
 name: EPIC
 about: Template de création d'Epic
 title: "[EPIC]"
-labels: Epic
+labels: Task
 assignees: pixseed
 
 ---
@@ -36,12 +36,6 @@ Aucune
 - [ ]
 - [ ]
 - [ ]
-
----
-
-## ⏱️ Charge estimée
-
-À renseigner
 
 ---
 

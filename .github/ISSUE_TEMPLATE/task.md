@@ -33,24 +33,6 @@ Aucune
 
 ---
 
-## ⏱️ Estimation
-
-À renseigner
-
----
-
-## 👤 Responsable
-
-À renseigner
-
----
-
-## 🗂️ Référence WBS
-
-Exemple : W6-3
-
----
-
 ## 📝 Notes
 
 <!-- Informations complémentaires -->
