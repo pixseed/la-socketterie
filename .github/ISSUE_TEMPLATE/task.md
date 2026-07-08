@@ -33,6 +33,12 @@ Aucune
 
 ---
 
+## 📦 Livrable(s)
+
+- [ ] 
+
+---
+
 ## 📝 Notes
 
 <!-- Informations complémentaires -->
